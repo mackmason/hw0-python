@@ -1,5 +1,5 @@
-temperature = input("Enter temperature:")
-temperatureChoice = input("Enter unit in F/f or C/c:")
+temperature = input("Enter temperature: ")
+temperatureChoice = input("Enter unit in F/f or C/c: ")
 temperatureFloat = float(temperature)
 
 if (temperatureChoice == "F" or temperatureChoice == "f"):
